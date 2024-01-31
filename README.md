@@ -5,4 +5,4 @@ The Client program sends information in messages.txt file line-by-line to the se
 ### To Run
 - type ```make all``` in terminal
 - start server by typing ```java server2 <portNo>``` in terminal
-- start server by typing ```java client2``` in terminal
+- start client by typing ```java client2``` in terminal
